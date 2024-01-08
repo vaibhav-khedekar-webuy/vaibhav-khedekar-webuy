@@ -9,15 +9,11 @@ Usually busy in blending awesome ideas to develop super-awesome things!
 
 #### Currently working on
 
-OOPS, V8 Engine, Laravel, React, Crypto Currency
+Monorepo | Vue | Nuxt | Javascript
 
 #### Currently learning
 
-Javascript, TypeScript, PHP, GraphQl
-
-#### Ask me about
-
-Coding, Cooking, Food, Trekking & Travelling
+Design Patterns | Javascript
 
 #### How to reach me
 
