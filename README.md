@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://socialify.git.ci/vaibhavkhedekar/vaibhavkhedekar/image?custom_description=A+full-stack+web+developer+from+Mumbai%2C+India.%0AUsually+busy+in+blending+ideas+to+develop+awesome+things%21&description=1&font=Raleway&language=1&logo=https%3A%2F%2Fvaibhavkhedekar.com%2Fassets%2Flogo.svg&name=1&pattern=Solid&theme=Auto" width="100%"/>
+    <img src="https://socialify.git.ci/vaibhav-khedekar-webuy/vaibhav-khedekar-webuy/image?custom_description=A+Full-stack+web+developer+from+Mumbai%2C+India.%0AUsually+busy+in+blending+ideas+to+develop+awesome+things%21&description=1&font=Jost&language=1&logo=https%3A%2F%2Fvaibhavkhedekar.com%2Fassets%2Flogo.svg&name=1&pattern=Solid&theme=Auto" width="100%"/>
 </p>
 <p align="center">
     <a href="https://www.linkedin.com/in/vkhedekar">LinkedIn</a> | <a href="https://twitter.com/vvkhedekar">X</a> | <a href="https://www.instagram.com/vaibhav.khedekar">Instagram</a> | <a href="https://orcid.org/0009-0000-4578-1267">ORCID</a>
@@ -18,6 +18,6 @@
 </p>
 <br/>
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavkhedekar&theme=github-dark&custom_title=Vaibhav%20Khedekar%20Activity%20Graph&hide_border=false">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-khedekar-webuy&theme=github-dark&custom_title=Vaibhav%20Khedekar%20Activity%20Graph&hide_border=false">
 </p>
 <br/>
