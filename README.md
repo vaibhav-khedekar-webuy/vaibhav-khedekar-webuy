@@ -1,26 +1,23 @@
-<img src="https://raw.githubusercontent.com/vaibhavkhedekar/vaibhavkhedekar/master/profile-banner.jpg" alt="Vaibhav Khedekar">
-
-# Hi, I'm Vaibhav Khedekar
-
-## Working at CeX Ltd.
-
-A web developer from Mumbai, India.
-Usually busy in blending awesome ideas to develop super-awesome things!
-
-#### Currently working on
-
-Monorepo | Vue | Nuxt | Javascript
-
-#### Currently learning
-
-Design Patterns | Javascript
-
-#### How to reach me
-
-You can drop me Mail on <a href="mailto:vkhedekar@webuy.com">vkhedekar@webuy.com</a> or else write message <a href="http://vaibhavkhedekar.com/contact">here</a>
-
-## Find me here also <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/vaibhavkhedekar/vaibhavkhedekar/master/logo.svg" alt="Logo">
-
-- <a href="https://www.linkedin.com/in/vkhedekar">LinkedIn</a>
-- <a href="https://twitter.com/vvkhedekar">Twitter</a>
-- <a href="https://www.instagram.com/vaibhav.khedekar/">Instagram</a>
+<p align="center">
+    <img src="https://socialify.git.ci/vaibhavkhedekar/vaibhavkhedekar/image?custom_description=A+full-stack+web+developer+from+Mumbai%2C+India.%0AUsually+busy+in+blending+ideas+to+develop+awesome+things%21&description=1&font=Raleway&language=1&logo=https%3A%2F%2Fvaibhavkhedekar.com%2Fassets%2Flogo.svg&name=1&pattern=Solid&theme=Auto" width="100%"/>
+</p>
+<p align="center">
+    <a href="https://www.linkedin.com/in/vkhedekar">LinkedIn</a> | <a href="https://twitter.com/vvkhedekar">X</a> | <a href="https://www.instagram.com/vaibhav.khedekar">Instagram</a> | <a href="https://orcid.org/0009-0000-4578-1267">ORCID</a>
+</p>
+<p align="center">OR</p>
+<p align="center">Drop me Mail on <a href="mailto:contact@vaibhavkhedekar.com">contact@vaibhavkhedekar.com</a>
+    | Write message <a href="http://vaibhavkhedekar.com/contact">here</a>
+</p>
+<img src="https://i.imgur.com/waxVImv.png"/>
+<br/>
+<p align="center">
+    <img src="https://img.shields.io/badge/JavaScript-Ninja-yellow?style=for-the-badge&logo=javascript"/>
+    <img src="https://img.shields.io/badge/Developer-Friendly-brightgreen?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Editor-VS_Code-blue?style=for-the-badge&logo=visualstudiocode"/>
+    <img src="https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
+</p>
+<br/>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavkhedekar&theme=github-dark&custom_title=Vaibhav%20Khedekar%20Activity%20Graph&hide_border=false">
+</p>
+<br/>
