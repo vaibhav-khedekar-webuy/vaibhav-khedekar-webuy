@@ -16,13 +16,10 @@
     <img src="https://img.shields.io/badge/Editor-VS_Code-blue?style=for-the-badge&logo=visualstudiocode"/>
     <img src="https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
 </p>
-<br/>
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-khedekar-webuy&theme=github-dark&custom_title=Vaibhav%20Khedekar%20Activity%20Graph&hide_border=false">
 </p>
-<br/>
 <img src="https://i.imgur.com/waxVImv.png"/>
-<br/>
 <p align="center">
     <img src="./img/git-wrapped-2024.png">
 </p>
